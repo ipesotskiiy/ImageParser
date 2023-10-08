@@ -1,4 +1,4 @@
-# AsynchronousImageParser
+# ImageParser
 
 Данный проект является обучающим асинхронности и представляет собой загрузчик изображений сайта https://thecatapi.com/.
 
